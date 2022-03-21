@@ -161,7 +161,7 @@ nav ul li a span.rotate{
   position: relative;
   display: flex;
   align-items: flex-end;
-  box-shadow: 0px 7px 10px rgba(245,67,90, 0.5);
+  box-shadow: 0px 7px 10px #fc9403;
   transition: 0.5s ease-in-out;
   
 }
@@ -204,7 +204,7 @@ nav ul li a span.rotate{
   position: relative;
   display: flex;
   align-items: flex-end;
-  box-shadow: 0px 7px 10px rgba(191, 31, 31, 0.5);
+  box-shadow: 0px 7px 10px ;
   transition: 0.5s ease-in-out;
 }
 
